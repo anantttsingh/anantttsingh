@@ -111,7 +111,7 @@ SQL                   ░░░░░░░░░░░░░░
 
 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/anant-singh-jadon-ab1894332)
 
-🧩 LeetCode: [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/anantsingh-39/)
+🧩 LeetCode: [LeetCode](https://leetcode.com/u/anantsingh-39/)
 
 ---
 
