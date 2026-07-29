@@ -107,11 +107,11 @@ SQL                   ░░░░░░░░░░░░░░
 
 ## 🤝 Let's Connect
 
-📧 Email: **your-email@example.com**
+📧 Email: anantjadon0@gmail.com
 
-💼 LinkedIn: **Coming Soon**
+💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/anant-singh-jadon-ab1894332)
 
-🧩 LeetCode: **Coming Soon**
+🧩 LeetCode: [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/anantsingh-39/)
 
 ---
 
