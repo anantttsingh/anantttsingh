@@ -1,89 +1,124 @@
-<!-- HEADER SUB-SYSTEM -->
-<p align="center">
-  <img src="https://vercel.app" width="100%" />
+<div align="center">
+
+# Hi 👋 I'm Anant Singh
+
+### Building software, one project at a time.
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Backend+Development+Learner;Building+Real+Projects;Learning+Data+Structures+%26+Algorithms;Always+Learning+Something+New" />
 </p>
 
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Computer Science student passionate about learning by building real projects.
+
+- 🎓 B.Tech Computer Science Student
+- 💻 Learning Backend Development
+- 📚 Improving my problem-solving with DSA
+- 🌱 Exploring Git & GitHub
+- 🚀 Building projects to become a better software engineer
+
+---
+
+## 🚀 Featured Projects
+
+### 📚 Classroom Assignment Portal
+
+Role-based assignment management system for students and teachers.
+
+**Tech Used**
+
+`ASP.NET` `SQL Server` `HTML` `CSS` `JavaScript`
+
+---
+
+### 🏢 ERP Learning Project
+
+Working on real business modules using ASP.NET Web Forms.
+
+**Tech Used**
+
+`C#` `ASP.NET Web Forms` `SQL Server`
+
+---
+
+### 💡 More Projects Coming Soon...
+
+I'm continuously building and improving projects.
+
+---
+
+## 🛠 Tech Stack
+
 <p align="center">
-  <img src="https://komarev.com" alt="System Traffic" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,git,github,vscode,visualstudio"/>
+
 </p>
 
 ---
 
-### 🌐 SYSTEM CORE / STATUS INFO
-```text
-┌──────────────────────────────────────────────────────────────────────────┐
-│  OPERATOR: Anant Singh               [ B.Tech CSE // Academic Core ]     │
-│  CORE FOCUS: Backend Architecture    [ Distributed Systems & Logic ]     │
-│  ALGORITHMIC LAYER: DSA Execution    [ Data Structures Pipeline ]        │
-│  COMPILATION: Building robust, high-performance backends micro-by-micro  │
-└──────────────────────────────────────────────────────────────────────────┘
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anant-032&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anant-032&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=anant-032&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Backend Development
+- Data Structures & Algorithms
+- Git & GitHub
+- Building Better Projects
+
+---
+
+## 📚 Learning Roadmap
+
+```
+Backend Development   ██████████░░░░
+
+DSA                   ███████░░░░░░░
+
+Git & GitHub          ████████░░░░░░
+
+Python                ░░░░░░░░░░░░░░
+
+SQL                   ░░░░░░░░░░░░░░
 ```
 
 ---
 
-### 🛠️ CORE HARDWARE & BACKEND PROTOCOLS
+## 🤝 Let's Connect
 
-<table width="100%">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h4>⚡ CORE LANGUAGES</h4>
-      <img src="https://shields.io" /><br/><br/>
-      <img src="https://shields.io" /><br/><br/>
-      <img src="https://shields.io" />
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h4>🛡️ BACKEND Engine & DB</h4>
-      <img src="https://shields.io" /><br/><br/>
-      <img src="https://shields.io" /><br/><br/>
-      <img src="https://shields.io" /><br/><br/>
-      <img src="https://shields.io" />
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h4>🌌 ENV & SYSTEM CONTROLS</h4>
-      <img src="https://shields.io" /><br/><br/>
-      <img src="https://shields.io" /><br/><br/>
-      <img src="https://shields.io" />
-    </td>
-  </tr>
-</table>
+📧 Email: **your-email@example.com**
+
+💼 LinkedIn: **Coming Soon**
+
+🧩 LeetCode: **Coming Soon**
 
 ---
 
-### 📊 TELEMETRY DIAGRAMS & ANALYTICS
+<div align="center">
 
-<p align="center">
-  <img src="https://vercel.app" width="49%" />
-  <img src="https://herokuapp.com" width="49%" />
-</p>
+### ⭐ Thanks for visiting my profile!
 
-<p align="center">
-  <img src="https://vercel.app" width="60%" />
-</p>
+*"Consistency beats intensity. Keep building."*
 
----
-
-### 🚀 SYSTEM DIRECTIVES / CURRENT OBJECTIVES
-```text
-[■■■■■■■■■■■■■■░░░░░░] 70% | Mastering Graph & Tree Traversal Algorithms
-[■■■■■■■■■░░░░░░░░░░░] 45% | Scalable Microservices Architecture Deployment
-[■■■■■■■■■■■■░░░░░░░░] 60% | Containerising Development Frameworks via Docker
-```
-
----
-
-### 📡 SECURE UPLINK 
-<p align="center">
-  <a href="mailto:anantjadon0@gmail.com">
-    <img src="https://shields.io" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" />
-  </a>
-</p>
-
-```text
-// EOF: End of Profile System Sequence. Monitoring Active.
-```
+</div>
